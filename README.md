@@ -33,7 +33,8 @@ un autre exemple
 
 ## Prérequis
 
-- Java 11 ou plus récent
+- Java 21
+- Docker Desktop
 - Node.js et npm
 - Maven
 - Un IDE tel qu'IntelliJ IDEA ou Eclipse
