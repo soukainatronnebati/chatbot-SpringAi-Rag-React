@@ -48,7 +48,7 @@ un autre exemple
 
 ## Remerciements
 
-Un remerciement spécial à Monsieur Youssefi pour son aide 
+Un remerciement spécial à Monsieur Mohamed Youssefi pour son aide 
 et son soutien précieux dans la réalisation de cette application.
 
 
