@@ -46,6 +46,11 @@ un autre exemple
    git clone https://github.com/votre-utilisateur/chat-bot-app.git
    cd chat-bot-app
 
+## Remerciements
+
+Un remerciement spécial à Monsieur Youssefi pour son aide 
+et son soutien précieux dans la réalisation de cette application.
+
 
 
 
